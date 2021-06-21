@@ -1,4 +1,4 @@
-# @etalab/epci
+# @betagouv/epci (fork @etalab epci)
 
 > API JavaScript permettant d'interroger la base des EPCI à fiscalité propre
 
@@ -9,16 +9,16 @@
 
 ```bash
 # npm
-npm install @etalab/epci
+npm install @betagouv/epci ci
 
 # yarn
-yarn add @etalab/epci
+yarn add @betagouv/epci
 ```
 
 ## Utilisation
 
 ```js
-const epci = require('@etalab/epci/data/epci.json')
+const epci = require('@betagouv/epci/data/epci.json')
 ```
 
 ## Licence
